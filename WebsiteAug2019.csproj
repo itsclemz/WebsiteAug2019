@@ -225,6 +225,9 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\JukeBox\audios\news-audio.mp3" />
     <Content Include="Content\JukeBox\fonts\fontawesome-webfont78ce.svg" />
+    <Content Include="Content\JukeBox\images\0d2cbff1881ec905c1d4709062572e7110757635.jpg" />
+    <Content Include="Content\JukeBox\images\20190813_204310_0000.png" />
+    <Content Include="Content\JukeBox\images\67396926_10217041769328890_9000203225462210560_n.jpg" />
     <Content Include="Content\JukeBox\images\about-bottom.jpg" />
     <Content Include="Content\JukeBox\images\album1.jpg" />
     <Content Include="Content\JukeBox\images\album2.jpg" />
@@ -272,8 +275,12 @@
     <Content Include="Content\JukeBox\images\InShot_20161205_204648.jpg" />
     <Content Include="Content\JukeBox\images\InShot_20161216_143657.jpg" />
     <Content Include="Content\JukeBox\images\logo-dark.png" />
+    <Content Include="Content\JukeBox\images\Logopit_1564091667215.jpg" />
+    <Content Include="Content\JukeBox\images\make-a-cool-youtube-banner-for-your-channel.jpg" />
+    <Content Include="Content\JukeBox\images\mfm youth logo.jpg" />
     <Content Include="Content\JukeBox\images\noise.png" />
     <Content Include="Content\JukeBox\images\noise1.png" />
+    <Content Include="Content\JukeBox\images\office-.jpg" />
     <Content Include="Content\JukeBox\images\optimalnice.jpg" />
     <Content Include="Content\JukeBox\images\personnel1.jpg" />
     <Content Include="Content\JukeBox\images\personnel2.jpg" />
